@@ -1,2 +1,2 @@
 # Nischal_Sachdeva
-Nischal's Business Analyst Portfolo 
+Nischal's Business Analyst Portfolio 
