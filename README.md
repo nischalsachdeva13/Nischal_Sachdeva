@@ -3,7 +3,7 @@ Nischal's Business Analyst Portfolio
 # 👋 Hi, I'm Nischal Sachdeva  
 
 🎓 MBA (Business Analytics) @ Amity Noida| 🎓 BA (Hons) @ SGTBGKC (University of Delhi)
-**💻 Aspiring Business Analyst | ✍️ Writer | 🌍 Social Impact Enthusiast  
+💻 Aspiring Business Analyst | ✍️ Writer | 🌍 Social Impact Enthusiast  
 
 Welcome to my portfolio! Here I showcase my projects, learning path, certifications, and contributions in the fields of **Business Analytics**. 
 
