@@ -24,6 +24,14 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [ETL pipelines project](#etl-pipelines-project)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
+
+## About me-
+Hi, I’m Nischal Sachdeva, an aspiring Business Analyst with an MBA in Business Analytics. I have a strong foundation in data analytics, visualization, and business problem-solving, and I enjoy transforming data into meaningful insights that support smarter decision-making.
+
+I am skilled in Power BI, Excel, SQL, Lucidchart, Visio and Python (basics), with a focus on creating clear dashboards, reports, and analytical solutions. I am passionate about applying data-driven approaches to real-world challenges and continuously building expertise in the field of business analytics.
+
+My goal is to grow as a Business Analyst and contribute to impactful projects that combine data, strategy, and innovation.
+
 ## 📂 Portfolio Projects  
 
 ### 1.Zepto Customer Churn Analysis (Power BI)  
