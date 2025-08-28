@@ -6,7 +6,7 @@ Nischal's Business Analyst Portfolio
 💻 Aspiring Business Analyst | ✍️ Writer |  
 
 Welcome to my portfolio! Here I showcase my projects, learning path, certifications, and contributions in the fields of **Business Analytics**. 
-This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others).
+This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, Lucidchart, and others).
 ---
 ## Contents
 * [About me](#about-me)
