@@ -2,16 +2,16 @@
 Nischal's Business Analyst Portfolio 
 # 👋 Hi, I'm Nischal Sachdeva  
 
-🎓 BA (Hons) Political Science | 🎓 MBA (Business Analytics)  
+🎓 MBA (Business Analytics) @ Amity Noida| 🎓 BA (Hons) @ SGTBGKC (University of Delhi)
 💻 Aspiring Business Analyst | ✍️ Writer | 🌍 Social Impact Enthusiast  
 
-Welcome to my portfolio! Here I showcase my projects, learning path, certifications, and contributions in the fields of **Business Analytics**, **Research**, and **Social Impact**.  
+Welcome to my portfolio! Here I showcase my projects, learning path, certifications, and contributions in the fields of **Business Analytics**. 
 
 ---
 
 ## 📂 Portfolio Projects  
 
-### 1. Customer Churn Analysis (Power BI)  
+### 1.Zepto Customer Churn Analysis (Power BI)  
 **Objective:** Analyzed customer churn trends and identified factors contributing to high churn rates.  
 **Tools & Skills:** Power BI, Excel, DAX, Data Cleaning, KPI Analysis  
 **Deliverables:**  
