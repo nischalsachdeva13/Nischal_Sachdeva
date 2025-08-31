@@ -75,7 +75,7 @@ My goal is to grow as a Business Analyst and contribute to impactful projects th
 ## 📜 Certifications  
 
 - [Microsoft Business Analyst Professional Certificate](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/EAEA39D2-8AB5-4B66-B854-EA2D4A18728A.pdf) - Coursera 2025.
-- [Scrum Fundamentals Certified]
+- [Scrum Fundamentals Certified](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/ScrumFundamentalsCertified-NischalSachdeva-1095085%202.pdf) - ScrumStudy 2025.
 - [Other relevant certifications here…]  
 
 ---
