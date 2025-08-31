@@ -81,7 +81,7 @@ My goal is to grow as a Business Analyst and contribute to impactful projects th
 - [Introduction to Generative AI](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/L%26M.pdf) - Google 2025.
 - [Introduction to Python](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/Python%20Certificate.pdf) - Sololearn 2025.
 - [Certificate in Advanced Excel](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/Advanced%20Excel.pdf) - Amity University 2025.
-- [Certificate Course in Leadership and Motivatiom in Organization](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/L%26M.pdf) - Amity University 2025.
+- [Certificate Course in Leadership and Motivation in Organization](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/L%26M.pdf) - Amity University 2025.
 - [Other relevant certifications here…]  
 
 ---
