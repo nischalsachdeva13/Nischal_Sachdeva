@@ -76,6 +76,7 @@ My goal is to grow as a Business Analyst and contribute to impactful projects th
 
 - [Microsoft Business Analyst Professional Certificate](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/Microsoft%20BA.pdf) - Coursera 2025.
 - [Scrum Fundamentals Certified](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/ScrumFundamentalsCertified-NischalSachdeva-1095085%202.pdf) - ScrumStudy 2025.
+- [Databases and SQL for Data Science with Python](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/IBM.pdf) - IBM (Coursera) 2025.
 - [Introduction to SQL](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/4309_8832326.pdf) - Simplilearn 2025.
 - [Introduction to Generative AI](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/L%26M.pdf) - Google 2025.
 - [Introduction to Python](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/Python%20Certificate.pdf) - Sololearn 2025.
