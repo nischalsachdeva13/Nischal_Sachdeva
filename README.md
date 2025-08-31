@@ -77,6 +77,7 @@ My goal is to grow as a Business Analyst and contribute to impactful projects th
 - [Microsoft Business Analyst Professional Certificate](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/EAEA39D2-8AB5-4B66-B854-EA2D4A18728A.pdf) - Coursera 2025.
 - [Scrum Fundamentals Certified](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/ScrumFundamentalsCertified-NischalSachdeva-1095085%202.pdf) - ScrumStudy 2025.
 - [Introduction to SQL](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/4309_8832326.pdf) - Simplilearn 2025.
+- [Introduction to Python](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/Python%20Certificate.pdf) - Sololearn 2025.
 - [Other relevant certifications here…]  
 
 ---
@@ -89,8 +90,8 @@ My goal is to grow as a Business Analyst and contribute to impactful projects th
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nischal-sachdeva-0a0aab185?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-nischalsachdeva18@gmail.com)  
 
 ---
 
