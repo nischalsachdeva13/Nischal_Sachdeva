@@ -13,7 +13,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 ## Contents
 * [About me](#about-me-)
 * [Portfolio Projects](#-portfolio-projects-)
-  - [Customer Churn & Retention Analysis – Zepto (Quick-Commerce)](#customer-churn-zepto))
+  - [Zepto Customer Churn & Retention Analysis – Zepto (Quick-Commerce)](#customer-churn-zepto))
   - [Adidas US sales data analysis](#adidas-us-sales-data-analysis)
   - [Real estate US SQL and Power BI analysis](#real-estate-us-sql-and-power-bi-analysis)
 * [Study projects](#study-projects)
