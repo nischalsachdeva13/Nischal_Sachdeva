@@ -13,7 +13,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 ## Contents
 * [About me](#about-me-)
 * [Portfolio Projects](#-portfolio-projects-)
-  - [Customer Churn & Retention Analysis – Zepto (Quick-Commerce)](Customer-Churn-&-Retention-Analysis-Zepto-(Quick-Commerce))
+  - [Customer Churn & Retention Analysis – Zepto (Quick-Commerce)](#customer-churn-zepto))
   - [Adidas US sales data analysis](#adidas-us-sales-data-analysis)
   - [Real estate US SQL and Power BI analysis](#real-estate-us-sql-and-power-bi-analysis)
 * [Study projects](#study-projects)
@@ -33,7 +33,7 @@ I am skilled in Power BI, Excel, SQL, Lucidchart, Visio and Python (basics), wit
 My goal is to grow as a Business Analyst and contribute to impactful projects that combine data, strategy, and innovation.
 
 ## 📂 Portfolio Projects-
-<h1 align="center">1. Customer Churn & Retention Analysis – Zepto (Quick Commerce)</h1>
+<h1 id="customer-churn-zepto" align="center">1. Customer Churn & Retention Analysis – Zepto (Quick Commerce)</h1>
 
 **Description:**  
 This is a **comprehensive Business Analyst lifecycle project** aimed at reducing **customer churn from 25% → 8%** for **Zepto (Quick Commerce)**.  
