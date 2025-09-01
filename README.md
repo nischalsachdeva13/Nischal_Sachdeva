@@ -32,7 +32,7 @@ I am skilled in Power BI, Excel, SQL, Lucidchart, Visio and Python (basics), wit
 
 My goal is to grow as a Business Analyst and contribute to impactful projects that combine data, strategy, and innovation.
 
-## 📂 Portfolio 
+## 📂 Portfolio Projects
 <h1 align="center">1. Customer Churn & Retention Analysis – Zepto (Quick Commerce)</h1>
 
 **Description:**  
