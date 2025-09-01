@@ -33,8 +33,7 @@ I am skilled in Power BI, Excel, SQL, Lucidchart, Visio and Python (basics), wit
 My goal is to grow as a Business Analyst and contribute to impactful projects that combine data, strategy, and innovation.
 
 ## 📂 Portfolio 
----
-1. ### Customer Churn & Retention Analysis – Zepto (Quick Commerce)
+<h1 align="center">1. Customer Churn & Retention Analysis – Zepto (Quick Commerce)</h1>
 
 **Description:**  
 This is a **comprehensive Business Analyst lifecycle project** aimed at reducing **customer churn from 25% → 8%** for **Zepto (Quick Commerce)**.  
@@ -42,61 +41,44 @@ The project integrates **business analysis practices** with **data-driven insigh
 
 ---
 
-## 📂 Code & Deliverables
-- **SQL Queries:** [Customer Churn SQL Scripts](link-to-sql-code)  
-- **Python Notebook:** [Churn Prediction Model (Logistic Regression)](link-to-notebook)  
-- **Power BI Dashboard:** [Interactive Dashboard](link-to-dashboard)  
+**📂 Code & Deliverables**
+- **SQL Queries:** [Customer Churn SQL Scripts](link-to-sql-code) - churn data extraction & aggregation.
+- **Python Notebook:** [Churn Prediction Model (Logistic Regression)](link-to-notebook) - preprocessing, 76.5% prediction accuracy.
+- **Power BI Dashboard:** [Interactive Dashboard](link-to-dashboard) - for real-time KPIs & segmentation.
+- **Excel** - Pivots Analysis
 - **Project Report:** [PDF Report](link-to-report)  
 - **Diagrams (Lucidchart):** [UML, BPMN, Fishbone](link-to-diagrams)  
 - **Dataset:** [Simulated Dataset](link-to-dataset)  
 
 ---
 
-## 🔑 Business Analysis Lifecycle Coverage
-- **Stakeholder Analysis & RACI Matrix** → mapped roles across Operations, Marketing, Product, and Support.  
-- **Requirements Elicitation** → interviews, workshops, surveys, document analysis.  
-- **Business & Functional Requirement Documents (BRD & FRD)** → defined goals, KPIs, and system requirements.  
-- **User Stories (Agile Framework)** → INVEST-based stories for dashboards & churn alerts.  
-- **Process Modeling (Lucidchart)** → UML Use Case, BPMN workflows, and Gap Analysis.  
-- **Root Cause Analysis (Fishbone/Ishikawa)** → identified churn drivers: delivery delays, stockouts, discount dependency.  
-- **Business Process Improvements (BPI Plan)** → loyalty programs, proactive support, personalized campaigns.  
-- **Risk Analysis & RTM** → mapped risks and ensured requirements traceability.  
-- **UAT Scenarios** → validated dashboard and predictive model outcomes.  
+**🔑 Business Analysis Lifecycle Coverage**
+- **Stakeholder Analysis & RACI Matrix** 
+- **Requirements Elicitation** (BRD, FRD).
+- **User Stories (Agile Framework)** → INVEST-based stories
+- **Process Modeling (Lucidchart)** → UML, BPMN , and Gap (As-IS, To-BE).  
+- **Root Cause Analysis** (Fishbone/Ishikawa)
+- **Business Process Improvements (BPI Plan)**
+- **Exploratory Data Analysis (EDA)**
+- **Risk Analysis & RTM**
+- **UAT Scenarios**
 
 ---
 
-## 🛠 Technical Implementation
-- **SQL:** Extracted and aggregated customer orders, cancellations, and SLA breaches.  
-- **Python (Logistic Regression):**  
-  - Preprocessing: handling missing values, encoding, scaling.  
-  - Model Accuracy: **76.5% churn prediction accuracy**.  
-- **Power BI Dashboards:**  
-  - Real-time churn KPIs.  
-  - Segmentation by region, tenure, and customer type.  
-- **Excel:** Pivot tables, correlation analysis, churn vs. retention cohorts.  
+**💡 Skills Demonstrated** <br>
+•	**Hard Skills:** SQL, Python (Logistic Regression, Pandas, NumPy, Scikit-learn), Power BI, Excel (Pivots/Charts), Lucidchart (UML, BPMN, Fishbone), BRD/FRD, RTM. <br>
+•	**Soft Skills:** Stakeholder management, requirements elicitation, communication, business process improvement, Agile user stories.
 
 ---
 
-## 💡 Skills Demonstrated
-- **Business Analysis:** Stakeholder Management, BRD/FRD, User Stories, RTM, Gap Analysis.  
-- **Visualization & Documentation:** Power BI, Excel, Lucidchart (UML, BPMN, Fishbone).  
-- **Technical Tools:** SQL, Python (Pandas, NumPy, Scikit-learn).  
-- **Soft Skills:** Requirements elicitation, stakeholder communication, business process improvement.  
+**📊 Key Results**
+- Identified top churn drivers: delays, stockouts, discount reliance  
+- Built churn model (**76.5% accuracy**) & real-time dashboards  
+- Proposed **retention strategies:** loyalty, proactive support, personalization  
+- Projected churn drop **25% → 8% (68% improvement)**, boosting CLV & reducing CAC  
 
 ---
 
-## 📊 Key Results
-- Identified top churn drivers (delivery delays, product unavailability, heavy discount reliance).  
-- Built predictive churn model achieving **76.5% accuracy**.  
-- Designed dashboards enabling **real-time churn monitoring**.  
-- Recommended **3+ actionable strategies** (loyalty program, proactive customer support, personalized marketing).  
-- Projected churn reduction of **68% (25% → 8%)**, boosting **Customer Lifetime Value (CLV)** and reducing **Customer Acquisition Cost (CAC)**.  
-
----
-
-## ⚠️ Disclaimer
-This project is a **self-initiated case study** created for portfolio and learning purposes.  
-It is not affiliated with Zepto, and no confidential company data has been used.  
 ### 2. Sales Performance Analysis (Excel & Power BI)  
 **Objective:** Evaluated regional and product-level sales performance to support decision-making.  
 **Tools & Skills:** Excel (Pivot Tables, VLOOKUP), Power BI, Data Visualization  
