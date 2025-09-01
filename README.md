@@ -12,7 +12,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 ---
 ## Contents
 * [About me](#about-me-)
-* [Portfolio Projects](#portfolio-projects)
+* [Portfolio Projects](#-portfolio-projects-)
   - [Customer Churn & Retention Analysis – Zepto (Quick-Commerce)](Customer-Churn-&-Retention-Analysis–-Zepto- (Quick Commerce))
   - [Adidas US sales data analysis](#adidas-us-sales-data-analysis)
   - [Real estate US SQL and Power BI analysis](#real-estate-us-sql-and-power-bi-analysis)
@@ -22,8 +22,8 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [R Exercises](#r-exercises)
   - [SQL Exercises](#sql-exercises)
   - [ETL pipelines project](#etl-pipelines-project)
-* [Certificates](#certificates)
-* [Contacts](#contacts)
+* [Certificates](#-certifications)
+* [Contacts](#-connect-with-me)
 
 ## About me-
 Hi, I’m Nischal Sachdeva, an aspiring Business Analyst with an MBA in Business Analytics. I have a strong foundation in data analytics, visualization, and business problem-solving, and I enjoy transforming data into meaningful insights that support smarter decision-making.
@@ -32,7 +32,7 @@ I am skilled in Power BI, Excel, SQL, Lucidchart, Visio and Python (basics), wit
 
 My goal is to grow as a Business Analyst and contribute to impactful projects that combine data, strategy, and innovation.
 
-## 📂 Portfolio Projects
+## 📂 Portfolio Projects-
 <h1 align="center">1. Customer Churn & Retention Analysis – Zepto (Quick Commerce)</h1>
 
 **Description:**  
@@ -117,13 +117,6 @@ The project integrates **business analysis practices** with **data-driven insigh
 - [Introduction to Python](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/Python%20Certificate.pdf) - Sololearn 2025.
 - [Certificate in Advanced Excel](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/Advanced%20Excel.pdf) - Amity University 2025.
 - [Certificate Course in Leadership and Motivation in Organization](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/L%26M.pdf) - Amity University 2025.
-- [Other relevant certifications here…]  
-
----
-
-## 📊 GitHub Stats  
-
-![Nischal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nischalsachdeva&show_icons=true&theme=radical)  
 
 ---
 
