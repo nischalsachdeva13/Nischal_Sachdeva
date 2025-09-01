@@ -43,7 +43,7 @@ The project integrates **business analysis practices** with **data-driven insigh
 
 **📂 Code & Deliverables**
 - **SQL Queries:** [Customer Churn SQL Scripts](link-to-sql-code) - churn data extraction & aggregation.
-- **Python Notebook:** [Churn Prediction Model (Logistic Regression)](link-to-notebook) - preprocessing, 76.5% prediction accuracy.
+- **Python:** [Churn Prediction Model (Logistic Regression)](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Zepto%20Churn%20and%20Retention%20Analysis/Prediction%20-%20Zepto.py) - preprocessing, 76.5% prediction accuracy.
 - **Power BI Dashboard:** [Interactive Dashboard](link-to-dashboard) - for real-time KPIs & segmentation.
 - **Excel** - Pivots Analysis
 - **Project Report:** [PDF Report](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Zepto%20Churn%20and%20Retention%20Analysis/Portfolio%20Project%20(16).pdf) 
