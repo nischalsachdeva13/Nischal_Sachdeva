@@ -1,5 +1,5 @@
 # Nischal_Sachdeva
-Nischal's Business Analyst Portfolio 
+Business Analyst Portfolio 
 # 👋 Hi, I'm Nischal Sachdeva  
 
 🎓 MBA (Business Analytics) @ Amity Noida| 🎓 BA (Hons) @ SGTBGKC (University of Delhi) <br>
@@ -13,7 +13,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 ## Contents
 * [About me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
-  - [German cars data analysis](#german-cars-data-analysis) 
+  - [Customer Churn & Retention Analysis – Zepto (Quick-Commerce)](Customer-Churn-&-Retention-Analysis–-Zepto- (Quick Commerce))
   - [Adidas US sales data analysis](#adidas-us-sales-data-analysis)
   - [Real estate US SQL and Power BI analysis](#real-estate-us-sql-and-power-bi-analysis)
 * [Study projects](#study-projects)
