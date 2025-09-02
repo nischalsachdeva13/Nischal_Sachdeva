@@ -13,7 +13,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 * [About me](#about-me-)
 * [Portfolio Projects](#-portfolio-projects-)
   - [Zepto Customer Churn & Retention Analysis – Zepto (Quick-Commerce)](#customer-churn-zepto))
-  - [Adidas US sales data analysis](#adidas-us-sales-data-analysis)
+  - [E-commerce Sales Dashboard (Power BI)](#ecom-sales-dashboard)
   - [Real estate US SQL and Power BI analysis](#real-estate-us-sql-and-power-bi-analysis)
 * [Study projects](#study-projects)
   - [Python Data Analysis](#python-data-analysis)
@@ -109,7 +109,7 @@ It highlights sales performance, profit trends, customer insights, and payment m
 ---
 
 **📸 Dashboard Preview**
-![Dashboard Screenshot](Screenshots/sales_dashboard.png)
+[Dashboard Screenshot](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/~Ecommerce%20Sales%20Dashboard%20(Power%20BI)/Nischal%20Dashboard.pdf)
 
 ---
 
