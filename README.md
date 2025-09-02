@@ -119,17 +119,15 @@ It highlights sales performance, profit trends, customer insights, and payment m
 - Maharashtra led in total sales revenue.  
 - Profit peaked in **Q3**.
 
+## 📅 Study Projects
+**💻 Class 12 Computer Science File**<br> 
+
+**Description:** This repository contains my Class 12 Computer Science project file submitted at Shanti Niketan Vidyapeeth, Meerut (Session 2020–21). It includes Python programs covering text/file handling, binary files, random number generation, and data structures (stack & queue).  
+**Skills:** Python, File Handling, Data Structures, Problem Solving  
+**Status:** Completed in 2021  
+📄 [View Project PDF](./Study%20Projects/Nischal%20Sachdeva%20C.S.%20File.pdf)
+
 ---
-
-### 3. Gender Linguistic Awareness (Research Essay)  
-**Objective:** Explored the role of language in shaping gender perceptions and social justice.  
-**Tools & Skills:** Academic Research, Report Writing, Critical Analysis  
-**Deliverables:**  
-- [Essay Document](#)  
-- [Summary Blog Post](#)  
-
----
-
 ## 📘 Learning & Practice  
 
 - Python Basics for Data Analysis (Notebooks coming soon)  
