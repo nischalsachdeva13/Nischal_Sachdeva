@@ -65,6 +65,7 @@ The project integrates **business analysis practices** with **data-driven insigh
 ---
 
 **💡 Skills Demonstrated** <br>
+
 •	**Hard Skills:** SQL, Python (Logistic Regression, Pandas, NumPy, Scikit-learn), Power BI, Excel (Pivots/Charts), Lucidchart (UML, BPMN, Fishbone), BRD/FRD, RTM. <br>
 •	**Soft Skills:** Stakeholder management, requirements elicitation, communication, business process improvement, Agile user stories.
 
@@ -78,13 +79,46 @@ The project integrates **business analysis practices** with **data-driven insigh
 
 ---
 
-### 2. Sales Performance Analysis (Excel & Power BI)  
-**Objective:** Evaluated regional and product-level sales performance to support decision-making.  
-**Tools & Skills:** Excel (Pivot Tables, VLOOKUP), Power BI, Data Visualization  
-**Deliverables:**  
-- [Excel Report](#)  
-- [Interactive Dashboard](#)  
-- [Key Findings](#)  
+<h1 id="ecom-sales-dashboard" align="center">2. 📊 E-commerce Sales Dashboard (Power BI)</h1>
+
+This project showcases an interactive **Power BI Dashboard** analyzing e-commerce sales data.  
+It highlights sales performance, profit trends, customer insights, and payment mode preferences.
+
+---
+
+**🚀 Features**
+- **Sales Overview**: Total Sales, Profit, Quantity, and Average Order Value (AOV).
+- **Profit Trends**: Monthly profit breakdown.
+- **Category Analysis**: Contribution by Clothing, Furniture, Electronics.
+- **Payment Insights**: COD, Credit Card, UPI, Debit Card, EMI split.
+- **Geographic Insights**: Sales by State (Maharashtra, Delhi, UP, MP).
+- **Customer Insights**: Top customers by sales amount.
+
+---
+
+**📂 Files in this Repository**
+- `Reports/Nischal Dashboard.pdf` → Final dashboard report (PDF format).
+- *(Optional)* `Reports/Dashboard.pbix` → Power BI source file.
+- *(Optional)* `Screenshots/` → Dashboard snapshots.
+
+---
+
+**🛠️ Tools Used**
+- **Power BI Desktop** → Data modeling & visualization  
+- **Excel / CSV (dataset)** → Raw data source  
+
+---
+
+**📸 Dashboard Preview**
+![Dashboard Screenshot](Screenshots/sales_dashboard.png)
+
+---
+
+**💡 Key Insights**
+- Clothing contributed **63% of sales quantity**.
+- COD was the most used payment mode (**44%**).
+- Maharashtra led in total sales revenue.  
+- Profit peaked in **Q3**.
 
 ---
 
