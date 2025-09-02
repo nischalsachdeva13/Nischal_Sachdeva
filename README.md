@@ -150,6 +150,7 @@ Building a strong foundation in analytics, business intelligence, and research t
 - [Introduction to SQL](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/4309_8832326.pdf) - Simplilearn 2025.
 - [Introduction to Generative AI](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/L%26M.pdf) - Google 2025.
 - [Microsoft Power Platform in Business Analysis](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/Power%20Platform.pdf) - Coursera 2025.
+- [Requirements Gathering in Business Analysis](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/RE%20Engineering.pdf) - Coursera 2025.
 - [Introduction to Python](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/Python%20Certificate.pdf) - Sololearn 2025.
 - [Certificate in Advanced Excel](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/Advanced%20Excel.pdf) - Amity University 2025.
 - [Certificate Course in Leadership and Motivation in Organization](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/L%26M.pdf) - Amity University 2025.
