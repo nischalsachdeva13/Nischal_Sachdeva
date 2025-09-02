@@ -21,7 +21,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [R Exercises](#r-exercises)
   - [SQL Exercises](#sql-exercises)
   - [ETL pipelines project](#etl-pipelines-project)
-* [Learning & Practice](-learning-&-practice)
+* [Learning & Practice](-learning--practice)
 * [Certificates](#-certifications)
 * [Contacts](#-connect-with-me)
 
