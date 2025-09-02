@@ -16,7 +16,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [E-commerce Sales Dashboard (Power BI)](#ecom-sales-dashboard)
   - [Real estate US SQL and Power BI analysis](#real-estate-us-sql-and-power-bi-analysis)
 * [Study Projects](#-study-projects)
-  - [Python Data Analysis](#python-data-analysis)
+  - [C.S. Python File (Class-12)](cs-python-file)
   - [Excel Exercises](#excel-exercises)
   - [R Exercises](#r-exercises)
   - [SQL Exercises](#sql-exercises)
@@ -121,7 +121,7 @@ It highlights sales performance, profit trends, customer insights, and payment m
 - Profit peaked in **Q3**.
 
 ## 📅 Study Projects
-**💻 Class 12 Computer Science File**<br> 
+<a name="cs-python-file"></a> **💻 Class 12 Computer Science File**<br> 
 
 **Description:** This repository contains my Class 12 Computer Science project file submitted at Shanti Niketan Vidyapeeth, Meerut (Session 2020–21). It includes Python programs covering text/file handling, binary files, random number generation, and data structures (stack & queue).  
 **Skills:** Python, File Handling, Data Structures, Problem Solving  
