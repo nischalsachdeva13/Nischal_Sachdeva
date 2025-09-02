@@ -62,8 +62,8 @@ The project integrates **business analysis practices** with **data-driven insigh
 
 **💡 Skills Demonstrated** <br>
 
-•	**Hard Skills:** SQL, Python (Logistic Regression, Pandas, NumPy, Scikit-learn), Power BI, Excel (Pivots/Charts), Lucidchart (UML, BPMN, Fishbone), BRD/FRD, RTM. <br>
-•	**Soft Skills:** Stakeholder management, requirements elicitation, communication, business process improvement, Agile user stories.
+- **Hard Skills:** SQL, Python (Logistic Regression, Pandas, NumPy, Scikit-learn), Power BI, Excel (Pivots/Charts), Lucidchart (UML, BPMN, Fishbone), BRD/FRD, RTM. <br>
+- **Soft Skills:** Stakeholder management, requirements elicitation, communication, business process improvement, Agile user stories.
 
 ---
 
