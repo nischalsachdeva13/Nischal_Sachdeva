@@ -16,7 +16,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [E-commerce Sales Dashboard (Power BI)](#ecom-sales-dashboard)
   - [Real estate US SQL and Power BI analysis](#real-estate-us-sql-and-power-bi-analysis)
 * [Study Projects](#-study-projects)
-  - [C.S. Python File (Class-12)](cs-python-file)
+  - [C.S. Python File (Class-12)](#cs-python-file)
   - [Excel Exercises](#excel-exercises)
   - [R Exercises](#r-exercises)
   - [SQL Exercises](#sql-exercises)
