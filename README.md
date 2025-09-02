@@ -119,9 +119,9 @@ It highlights sales performance, profit trends, customer insights, and payment m
 ## 📅 Study Projects
 <a name="cs-python-file"></a> **💻 Class 12 Computer Science File**<br> 
 
-**Description:** This repository contains my Class 12 Computer Science project file submitted at Shanti Niketan Vidyapeeth, Meerut (Session 2020–21). It includes Python programs covering text/file handling, binary files, random number generation, and data structures (stack & queue).  
-**Skills:** Python, File Handling, Data Structures, Problem Solving  
-**Status:** Completed in 2021  
+-**Description:** This repository contains my Class 12 Computer Science project file submitted at Shanti Niketan Vidyapeeth, Meerut (Session 2020–21). It includes Python programs covering text/file handling, binary files, random number generation, and data structures (stack & queue).  
+-**Skills:** Python, File Handling, Data Structures, Problem Solving  
+-**Status:** Completed in 2021  
 📄 [View Project PDF](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Nischal%20Sachdeva%20C.S.%20File%20(1).pdf)
 
 ---
