@@ -97,7 +97,7 @@ It highlights sales performance, profit trends, customer insights, and payment m
 ---
 
 **📂 Files in this Repository**
-- `Reports/Nischal Dashboard.pdf` → Final dashboard report (PDF format).
+- [Dashboard Report](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/~Ecommerce%20Sales%20Dashboard%20(Power%20BI)/PowerBI_Sales_Dashboard_Report.pdf) → Final dashboard report (PDF format).
 - *(Optional)* `Reports/Dashboard.pbix` → Power BI source file.
 - *(Optional)* `Screenshots/` → Dashboard snapshots.
 
