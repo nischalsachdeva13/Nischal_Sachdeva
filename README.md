@@ -1,11 +1,10 @@
-# Nischal_Sachdeva
-Business Analyst Portfolio 
-# 👋 Hi, I'm Nischal Sachdeva  
+# Nischal Sachdeva - Business Analyst Portfolio 
+**👋 Hi, I'm Nischal Sachdeva** 
 
 🎓 MBA (Business Analytics) @ Amity Noida| 🎓 BA (Hons) @ SGTBGKC (University of Delhi) <br>
 💻 Aspiring Business Analyst | ✍️ Writer |  
 
-Welcome to my portfolio! Here I showcase my projects, learning path, certifications, and contributions in the fields of **Business Analytics**. 
+Welcome to my portfolio! Here I showcase my projects, learning path, certifications, and contributions in the fields of Business Analytics. 
 
 This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, Lucidchart, and others).
 
@@ -28,7 +27,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 ## About me-
 Hi, I’m Nischal Sachdeva, an aspiring Business Analyst with an MBA in Business Analytics. I have a strong foundation in data analytics, visualization, and business problem-solving, and I enjoy transforming data into meaningful insights that support smarter decision-making.
 
-I am skilled in Power BI, Excel, SQL, Lucidchart, Visio and Python (basics), with a focus on creating clear dashboards, reports, and analytical solutions. I am passionate about applying data-driven approaches to real-world challenges and continuously building expertise in the field of business analytics.
+I am skilled in **Power BI, Advanced Excel, SQL, Lucidchart, Visio and Python (basics)**, with a focus on creating clear dashboards, reports, and analytical solutions. I am passionate about applying data-driven approaches to real-world challenges and continuously building expertise in the field of business analytics.
 
 My goal is to grow as a Business Analyst and contribute to impactful projects that combine data, strategy, and innovation.
 
