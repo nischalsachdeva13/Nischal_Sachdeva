@@ -15,12 +15,13 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [Zepto Customer Churn & Retention Analysis – Zepto (Quick-Commerce)](#customer-churn-zepto))
   - [E-commerce Sales Dashboard (Power BI)](#ecom-sales-dashboard)
   - [Real estate US SQL and Power BI analysis](#real-estate-us-sql-and-power-bi-analysis)
-* [Study projects](#study-projects)
+* [Study Projects](#-study-projects)
   - [Python Data Analysis](#python-data-analysis)
   - [Excel Exercises](#excel-exercises)
   - [R Exercises](#r-exercises)
   - [SQL Exercises](#sql-exercises)
   - [ETL pipelines project](#etl-pipelines-project)
+* [Learning & Practice](-Learning-&-Practice)
 * [Certificates](#-certifications)
 * [Contacts](#-connect-with-me)
 
@@ -129,11 +130,14 @@ It highlights sales performance, profit trends, customer insights, and payment m
 
 ---
 ## 📘 Learning & Practice  
+Building a strong foundation in analytics, business intelligence, and research through structured practice and applied case studies.  
 
-- Python Basics for Data Analysis (Notebooks coming soon)  
-- SQL Query Exercises (PostgreSQL/MySQL practice sets)  
-- Power BI Dashboards (customer, sales, and HR datasets)  
-- Research and Writing Samples  
+- **SQL Queries & Optimization** – advanced querying, joins, subqueries, and performance improvement  
+- **Business Intelligence Tools** – interactive dashboards and insights using Power BI  
+- **Excel for Data Analysis** – advanced functions, pivot tables, and data visualization  
+- **Python for Data Analysis** – data wrangling, visualization, and automation workflows  
+- **Research & Writing Skills** – structured reports, analytical writing, and documentation  
+
 
 ---
 
