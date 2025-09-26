@@ -6,7 +6,7 @@
 
 Welcome to my portfolio! Here I showcase my projects, learning path, certifications, and contributions in the fields of Business Analytics. 
 
-You can see more information in my [**CV**]().
+You can see more information in my [**CV**](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Certificates/resume__1_%20(6).pdf).
 
 This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, Lucidchart, and others).
 
