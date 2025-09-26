@@ -6,6 +6,8 @@
 
 Welcome to my portfolio! Here I showcase my projects, learning path, certifications, and contributions in the fields of Business Analytics. 
 
+You can see more information in my [**CV**]().
+
 This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, Lucidchart, and others).
 
 ---
