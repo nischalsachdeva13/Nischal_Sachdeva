@@ -133,7 +133,7 @@ It highlights sales performance, profit trends, customer insights, and payment m
 **Description:** This repository contains SQL queries that I was writing to accomplish different tasks during different courses. The main goal is to improve SQL knowledge and fluency. <br>
 **Skills:** SQL, Queries, data analysis, data cleaning <br>
 **Status:** Completed in 2022.<br>
-📄 [SQL Scripts](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Nischal%20Sachdeva%20C.S.%20File%20(1).pdf)
+📄 [SQL Scripts](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/nischal_ofc.sql)
 
 
 
