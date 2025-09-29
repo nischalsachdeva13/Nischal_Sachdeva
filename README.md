@@ -18,6 +18,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [E-commerce Sales Dashboard (Power BI)](#ecom-sales-dashboard)
 * [Study Projects](#-study-projects)
   - [C.S. Python File (Class-12)](#cs-python-file)
+  - [SQL Exercises](#sql-file)
 * [Learning & Practice](#-learning--practice)
 * [Certificates](#-certifications)
 * [Contacts](#-connect-with-me)
@@ -125,6 +126,16 @@ It highlights sales performance, profit trends, customer insights, and payment m
 -**Skills:** Python, File Handling, Data Structures, Problem Solving  
 -**Status:** Completed in 2021  
 📄 [View Project PDF](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Nischal%20Sachdeva%20C.S.%20File%20(1).pdf)
+
+
+<a name="sql-file"></a> **SQL Exercises**<br>
+
+**Description:** This repository contains SQL queries that I was writing to accomplish different tasks during different courses. The main goal is to improve SQL knowledge and fluency. <br>
+**Skills:** SQL, Queries, data analysis, data cleaning <br>
+**Status:** Completed in 2022.<br>
+📄 [SQL Scripts](https://github.com/nischalsachdeva13/Nischal_Sachdeva/blob/main/Nischal%20Sachdeva%20C.S.%20File%20(1).pdf)
+
+
 
 ---
 ## 📘 Learning & Practice  
